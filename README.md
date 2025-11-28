@@ -1,5 +1,5 @@
-# Threat-Modelling
-#Threat-Model using Microsoft threat model tools and OSWAP framework
+# Threat-Modelling Analysis
+# Threat-Model using Microsoft threat model tools and OSWAP framework
 
 Threat modeling is a structured approach used to identify, evaluate, and mitigate security risks within a system. This process helps developers and security teams understand potential threats early in the design phase and build stronger, more resilient applications. The following summarizes the four core steps of threat modeling using Data Flow Diagrams (DFDs) and the STRIDE framework.
 
